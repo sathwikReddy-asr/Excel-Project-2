@@ -23,12 +23,10 @@ It enables stakeholders to quickly explore data patterns and make data-driven de
 - **Data Analysis Concepts**  
   - KPI tracking  
   - Trend analysis  
-  - Customer & driver performance insights  
-
----
-
-## 📊 Dashboard Features
-- **Dynamic KPI Cards** (Total Rides, Revenue, Avg Rating, Cancellation %)  
+  - Customer & driver performance insights
+    
+**📊 Dashboard Features**
+- **Dynamic KPI Cards** (Total Rides, Revenue)  
 - **Interactive Filters** using slicers (City, Month, Vehicle Type, etc.)  
 - **Trend Analysis**: Daily/Monthly booking patterns  
 - **Top/Bottom Analysis**: Locations with highest/lowest bookings  
